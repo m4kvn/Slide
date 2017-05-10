@@ -59,7 +59,6 @@ class: title-top
 
 - C/C++専用IDE (統合開発環境)
 - コンパイラ、エディタ、デバッガなど
-- GUI (Graphical User Interface)
 - JetBrains社製 (IntelliJ IDEA, Kotlin)
 - クロスプラットフォーム
 - https://www.jetbrains.com/clion/
