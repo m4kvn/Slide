@@ -1,0 +1,74 @@
+<DOCTYPE html>
+<html>
+<head>
+  <title>タイトル</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <style type="text/css">
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+      /* 全体のスタイル */
+      body { font-family: 'arial', sans-serif; }
+      h1, h2, h3 {
+        color: #006cb4;
+        font-weight: 700;
+      }
+      .remark-slide-content h1 { font-size: 3em; }
+      .remark-slide-content h2 { font-size: 2em; }
+      .remark-slide-content h3 { font-size: 1.4em; }
+      .footnote {
+        position: absolute;
+        bottom: 1em;
+      }
+      /* リンク */
+      a, a > code {
+        color: #ff1a75;
+        text-decoration: none;
+      }
+      /* コード */
+      code {
+        font-family: 'Ubuntu Mono';
+        border-radius: 5px;
+        -web-border-radius: 5px;
+      }
+      .remark-code { background: #e7e8e2; font-size: 0.8em; border: 1px solid #555; display: block; }
+      .remark-inline-code { background: #e7e8e2; }
+      .remark-code-line-highlighted { background-color: #f5ff49; }
+      .pull-left {
+        float: left;
+        width: 47%;
+      }
+      .pull-right {
+        float: right;
+        width: 47%;
+      }
+      .pull-right ~ p {
+        clear: both;
+      }
+      /* タイトルページ */
+      .inverse {
+        background: #006cb4;
+        color: #CCC;
+      }
+      .inverse h1, .inverse h2 {
+        color: #f3f3f3;
+        line-height: 1em;
+      }
+      /* 左右二段表示 */
+      .left-column {
+        width: 48%;
+        float: left;
+      }
+      .right-column {
+        width: 48%;
+        float: right;
+      }
+    </style>
+</head>
+<body>
+  <!-- Remarkjs -->
+  <script src="http://gnab.github.io/remark/downloads/remark-latest.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    <!-- sample.md -->
+    var slideshow = remark.create({sourceUrl: "sample.md"});
+  </script>
+</body>
+</html>
