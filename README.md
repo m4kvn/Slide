@@ -1,5 +1,7 @@
 # SampleSlide
 
+https://masahirosaito.github.io/SampleSlide/
+
 ## ローカルサーバー
 
 1. [Rack](http://rack.github.io/) を利用するためインストールしておく `gem install rack`
