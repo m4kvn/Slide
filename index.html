@@ -1,12 +1,15 @@
 <DOCTYPE html>
 <html>
 <head>
-  <title>タイトル</title>
+  <title>最強のC言語開発環境を作ろう</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <style type="text/css">
       @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
       /* 全体のスタイル */
-      body { font-family: 'arial', sans-serif; }
+      body {
+        font-family: 'arial',
+        sans-serif;
+      }
       h1, h2, h3 {
         color: #006cb4;
         font-weight: 700;
@@ -45,12 +48,8 @@
       }
       /* タイトルページ */
       .inverse {
-        background: #006cb4;
-        color: #CCC;
-      }
-      .inverse h1, .inverse h2 {
-        color: #f3f3f3;
-        line-height: 1em;
+        background: white;
+        color: #006cb4;
       }
       /* 左右二段表示 */
       .left-column {
@@ -60,6 +59,32 @@
       .right-column {
         width: 48%;
         float: right;
+      }
+      .title-top {
+        padding: 2em 4em 2em 4em;
+      }
+      ul {
+        padding: 0em 1em 0.5em 2.3em;
+        position: relative;
+        font-size: 1.6em;
+      }
+      ul li {
+        line-height: 1.5;
+        padding: 0.5em 0;
+        list-style-type: none!important;
+      }
+      ul li:before {
+        content: "◉";
+        position: absolute;
+        left : 1em;
+        color: skyblue;
+      }
+      strong {
+        color: #FF009F;
+      }
+      img {
+        max-width: 100%;
+        box-sizing: content-box;
       }
     </style>
 </head>
