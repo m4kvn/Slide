@@ -1,8 +1,4 @@
-# SampleSlide
-
-https://masahirosaito.github.io/SampleSlide/
-
-## Contents
+# MasahiroSaito's Open Slides
 
 ### ICT - FinTech
 
@@ -12,7 +8,7 @@ https://masahirosaito.github.io/SampleSlide/
 
 - [Google Maps Android API 学習報告スライド](./Miraikeitai2017/Android/learning-googlemap)
 
-## ローカルサーバー
+## ローカルサーバーテスト
 
 1. [Rack](http://rack.github.io/) を利用するためインストールしておく `gem install rack`
 1. `rackup` でローカルサーバーを起動する
