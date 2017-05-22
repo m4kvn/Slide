@@ -81,5 +81,30 @@ class: middle, center
 # **いや、使え**
 
 ---
+layout: true
+
 ## 使うにはどうすればよいのか
 
+---
+
+--
+- GitHubアカウントを作成
+
+--
+- [https://github.com/MasahiroSaito/Slide](https://github.com/MasahiroSaito/Slide)<br />にアクセスしよう(Slackにリンク貼る)
+
+---
+
+![](https://www.evernote.com/l/As00zzrvi61MaZ3snWOXiHtQAnzEU2ZUQH0B/image.png)
+
+---
+- FinTech → GetJetBrainsIDE と移動する
+
+--
+- そこに全てが書いてある
+
+--
+- このスライドのリンクもある
+
+--
+- 自分が既に取得済みなので協力者募集
