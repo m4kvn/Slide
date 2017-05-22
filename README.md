@@ -1,12 +1,9 @@
 # MasahiroSaito's Open Slides
 
-### ICT - FinTech
+### FUN
 
-- [JetBrainsのIDEを無料で手に入れよう](./FinTech/GetJetBrainsIDE)
-
-### Miraikeitai2017
-
-- [Google Maps Android API 学習報告スライド](./Miraikeitai2017/Android/learning-googlemap)
+- [JetBrainsのIDEを無料で手に入れよう](./FinTech/GetJetBrainsIDE) @FinTech
+- [Google Maps Android API 学習報告スライド](./Miraikeitai2017/Android/learning-googlemap) @Miraikeitai2017
 
 ## ローカルサーバーテスト
 
