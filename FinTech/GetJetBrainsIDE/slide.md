@@ -41,7 +41,7 @@ class: middle, center
 | RubyMine | Ruby, Rails |
 | PyCharm | Python, Django |
 | WebStorm | JavaScript |
-| Goland | Go |
+| Gogland | Go |
 
 ---
 ## 強力なIDEは有料
@@ -81,5 +81,5 @@ class: middle, center
 # **いや、使え**
 
 ---
-## 使うとどうなるのか
+## 使うにはどうすればよいのか
 
