@@ -44,4 +44,14 @@ https://masahirosaito.github.io/Slide/FinTech/GetJetBrainsIDE
 すると下のような画面が出るので「Download activation code」をクリックし、<br />
 ライセンスキーをダウンロードします。
 
+![](https://hackerslog.net/resource/imgs/1/f979c867d60cd71ceb3d1d9802d1efd7.png)
+
 このライセンスキーを使って有料のIDEを無料で使えます。
+
+### C言語開発のために CLion をダウンロードする
+
+下の画面に使用できる IDE 一覧が表示されているので、**CLion** を選択する
+
+![](https://hackerslog.net/resource/imgs/1/f979c867d60cd71ceb3d1d9802d1efd7.png)
+
+このあとうまく進めて自分の OS に合ったダウンロードする。
